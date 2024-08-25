@@ -1,5 +1,5 @@
 
-# Unimeet
+# ClearConnect
 
 A video chat application built with Node.js, Socket.io and WebRTC.
 
