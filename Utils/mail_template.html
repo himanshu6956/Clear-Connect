@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meeting Invitation</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7fc;
+            margin: 0;
+            padding: 0;
+            color: #4d4d4d;
+        }
+
+        .email-container {
+            background-color: #ffffff;
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e0e0e0;
+        }
+
+        .email-header {
+            background-color: #1e73be;
+            padding: 25px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            text-align: center;
+            color: #ffffff;
+        }
+
+        .email-header h1 {
+            font-size: 28px;
+            margin: 0;
+            font-weight: normal;
+        }
+
+        .email-body {
+            padding: 40px 30px;
+            font-size: 16px;
+            line-height: 1.8;
+            text-align: center;
+        }
+
+        .email-body p {
+            margin: 0 0 20px;
+        }
+
+        .email-body a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background-color: #1e73be;
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;
+        }
+
+        .email-body a:hover {
+            background-color: #155a91;
+        }
+
+        .secondary-link {
+            display: block;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #1e73be;
+            text-decoration: none;
+            word-wrap: break-word;
+        }
+
+        .email-footer {
+            padding-top: 20px;
+            border-top: 1px solid #dddddd;
+            font-size: 13px;
+            color: #888888;
+            text-align: center;
+            background-color: #f0f4f8;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            padding-bottom: 20px;
+        }
+
+        .email-footer p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="email-container">
+        <div class="email-header">
+            <h1>Meeting Invitation</h1>
+        </div>
+        <div class="email-body">
+            <p>Hello,</p>
+            <p>You have a meeting scheduled on our platform.</p>
+            <p>Please join the meeting via passcode provided to you</p>
+            <!-- <a href="%%LINK%%" target="_blank">Join the Meeting</a> -->
+            <p>If you don't have passcode please contact with your meeting host</p>
+            <!-- <a href="%%LINK%%" class="secondary-link" target="_blank">%%LINK%%</a> -->
+            <p>We look forward to your participation.</p>
+        </div>
+        <div class="email-footer">
+            <p>This is an automated message. Please do not reply.</p>
+            <p>If you have any questions, contact our support team.</p>
+            <p>Thank you for using ClearConnect!</p>
+        </div>
+    </div>
+</body>
+
+</html>
