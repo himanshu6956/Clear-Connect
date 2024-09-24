@@ -11,7 +11,7 @@ A video chat application built with Node.js, Socket.io and WebRTC.
 - `/views` - contains different views of the application.
 - `/Utils` - contains functions to handle mailing and scheduling.
 - `/Public` - contains the frontend scripts, images and logos.
-- `/Models/room.js` - contains the model for the database. 
+- `/models/room.js` - contains the model for the database. 
 ## Features
 
 - Video chat with multiple users
