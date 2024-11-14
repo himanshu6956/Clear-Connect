@@ -29,11 +29,10 @@ This is Node.js-based video call application that utilizes socket.io and peerjs 
 * Screen share
 * Audio and video controls
 * View Participants
-* Invite user through gmail or sharable invite message
+* Reminder Email
 * Google Authentication
 * Sharable whiteboard
 * Dedicated Leave meeting option
-* Zoom facility on video/screen for better experience
 * Easy to use UI
 
 
@@ -107,7 +106,7 @@ NOTE: Video of participant were kept off for security reasons<br>
 
 ![Participant](./WebApp/participant.png)<br>
 
-8. Invite user window<br>
+8. Meeting Passcode<br>
 
 ![New-user](./WebApp/adduser.png)<br>
 
