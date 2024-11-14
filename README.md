@@ -84,16 +84,16 @@ This is Node.js-based video call application that utilizes socket.io and peerjs 
 
 3. Meeting room<br>
 
-![Meeting-room](./public/WebApp/UserJoin.png)<br>
-NOTE: Video of participant were kept off for security reasons<br>
+![Select time and add participants](./public/WebApp/Reminder.png)<br>
 
 4. Meeting room<br>
 
-![Select time and add participants](./public/WebApp/Reminder.png)<br>
+![Reminder-mail](./public/WebApp/Mail.png)<br>
 
 5. Meeting room<br>
 
-![Reminder-mail](./public/WebApp/Mail.png)<br>
+![Meeting-room](./public/WebApp/UserJoin.png)<br>
+NOTE: Video of participant were kept off for security reasons<br>
 
 6. Chat facility<br>
 
