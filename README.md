@@ -76,47 +76,48 @@ This is Node.js-based video call application that utilizes socket.io and peerjs 
 
 1. Google Authentication<br>
 
-![google-authentication](./WebApp/google-authenticate.png)<br>
+![google-authentication](./public/WebApp/login.png)<br>
 
 2. After google authentication user can either choose to join a new meeting or join an existing meeting by entering the meeting-room ID<br>
 
-![Start-page](./WebApp/start-page.png)<br>
-
-![Join-page](./WebApp/join-page.png)<br>
+![Start-page](./public/WebApp/newMeet.png)<br>
 
 3. Meeting room<br>
 
-![Meeting-room](./WebApp/meeting-room.png)<br>
-
+![Meeting-room](./public/WebApp/UserJoin.png)<br>
 NOTE: Video of participant were kept off for security reasons<br>
 
-4. Chat facility<br>
+4. Meeting room<br>
 
-![Chat](./WebApp/chat.png)<br>
+![Select time and add participants](./public/WebApp/Reminder.png)<br>
 
-5. Screen-share feature<br>
+5. Meeting room<br>
 
-![Screen-share](./WebApp/screen-share.png)<br>
+![Reminder-mail](./public/WebApp/Mail.png)<br>
 
-6. Whiteboard<br>
+6. Chat facility<br>
 
-![Whiteboard](./WebApp/whiteboard.png)<br>
+![Chat](./public/WebApp/chat.png)<br>
 
-7. Participant-list<br>
+7. Screen-share feature<br>
 
-![Participant](./WebApp/participant.png)<br>
+![Screen-share](./public/WebApp/ScreenShare.png)<br>
 
-8. Meeting Passcode<br>
+8. Whiteboard<br>
 
-![New-user](./WebApp/adduser.png)<br>
+![Whiteboard](./public/WebApp/WhiteBorard.png)<br>
 
-9. Alert everyone in the meeting when a participant leaves the meeting<br>
+9. Participant-list<br>
 
-![leavemeet](./WebApp/leavemeet.png)<br>
+![Participant](./public/WebApp/Participants.png)<br>
 
-10. Leave Meeting page<br>
+10. Meeting Passcode<br>
 
-![Leave](./WebApp/leave.png)<br>
+![New-user](./public/WebApp/meetId.png)<br>
+
+11. Alert everyone in the meeting when a participant leaves the meeting<br>
+
+![leavemeet](./public/WebApp/UserLeft.png)<br>
 
 
 
