@@ -64,7 +64,7 @@ This is Node.js-based video call application that utilizes socket.io and peerjs 
 
 3. To run the webapp on localhost generate your Google Oauth credentials from [Google Developer Console](https://console.cloud.google.com/ "google developer console") by creating a new project and set the URI to `localhost:3000` and callback URI `localhost:3000/auth/google/callback`
 
-4. Create a .env file and add your Credentials here along with your Gmail ID and Password for Invite Email message
+4. Create a .env file and add your Credentials here along with your Gmail ID and Password for Reminder Email message
 
 ### Execution
 
@@ -78,7 +78,7 @@ This is Node.js-based video call application that utilizes socket.io and peerjs 
 
 ![google-authentication](./WebApp/google-authenticate.png)<br>
 
-2. After google authentication user can either choose to join a new meeting or join an existing meeting either through invite mail or by entering the meeting-room ID<br>
+2. After google authentication user can either choose to join a new meeting or join an existing meeting by entering the meeting-room ID<br>
 
 ![Start-page](./WebApp/start-page.png)<br>
 
